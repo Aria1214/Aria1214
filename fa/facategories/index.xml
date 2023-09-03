@@ -10,25 +10,6 @@
       <link>https://Aria1214.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fa</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Aria1214.github.io/fa/facategories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>syntax</title>
-      <link>https://Aria1214.github.io/fa/facategories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://Aria1214.github.io/fa/facategories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://Aria1214.github.io/fa/facategories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://Aria1214.github.io/fa/facategories/themes/</guid>
-      <description></description>
-    </item>
-    
+    <language>fa</language><atom:link href="https://Aria1214.github.io/fa/facategories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
