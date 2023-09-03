@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Aria1214.github.io/tags/animte/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>【路人超能100 第3季】觀後感</title>
-      <link>https://Aria1214.github.io/posts/aboutmobpsycho100s3/</link>
-      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://Aria1214.github.io/posts/aboutmobpsycho100s3/</guid>
-      <description>After reading KnowledgeCompoundNoteTaking</description>
-    </item>
-    
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Aria1214.github.io/tags/animte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【電馭叛客：邊緣行者】觀後感</title>
       <link>https://Aria1214.github.io/posts/cyberpunkedgerunners/</link>
@@ -28,6 +19,15 @@
       
       <guid>https://Aria1214.github.io/posts/cyberpunkedgerunners/</guid>
       <description>about Cyberpunk Edgerunners</description>
+    </item>
+    
+    <item>
+      <title>【路人超能100 第3季】觀後感</title>
+      <link>https://Aria1214.github.io/posts/mobpsycho100s3/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/mobpsycho100s3/</guid>
+      <description>MobPsycho100S3</description>
     </item>
     
   </channel>
