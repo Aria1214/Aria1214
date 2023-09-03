@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>animate on Retsnom</title>
+    <link>https://Aria1214.github.io/tags/animate/</link>
+    <description>Recent content in animate on Retsnom</description>
+    <image>
+      <title>Retsnom</title>
+      <url>https://Aria1214.github.io/papermod-cover.png</url>
+      <link>https://Aria1214.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Aria1214.github.io/tags/animate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【在無神世界裡進行傳教活動】觀後感</title>
+      <link>https://Aria1214.github.io/posts/what-god-does-in-a-world-without-gods/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/what-god-does-in-a-world-without-gods/</guid>
+      <description>What God Does in a World Without Gods</description>
+    </item>
+    
+    <item>
+      <title>【玩偶遊戲】觀後感，好有深度的一部年代動畫</title>
+      <link>https://Aria1214.github.io/posts/thedollgame/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/thedollgame/</guid>
+      <description>the doll game</description>
+    </item>
+    
+    <item>
+      <title>【網路勝利組】觀後感，在網路中獲得心靈能量</title>
+      <link>https://Aria1214.github.io/posts/winnersontheinternet/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/winnersontheinternet/</guid>
+      <description>winners on the internet</description>
+    </item>
+    
+    <item>
+      <title>【隱瞞之事】觀後感，善意的謊言是為了守護</title>
+      <link>https://Aria1214.github.io/posts/thehidingthing/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/thehidingthing/</guid>
+      <description>the hiding thing</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>life on Retsnom</title>
+    <link>https://Aria1214.github.io/tags/life/</link>
+    <description>Recent content in life on Retsnom</description>
+    <image>
+      <title>Retsnom</title>
+      <url>https://Aria1214.github.io/papermod-cover.png</url>
+      <link>https://Aria1214.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Aria1214.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20220428</title>
+      <link>https://Aria1214.github.io/posts/20220428/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/20220428/</guid>
+      <description>20220428</description>
+    </item>
+    
+    <item>
+      <title>有工作時不想上班，沒工作時焦慮滿滿</title>
+      <link>https://Aria1214.github.io/posts/idontwanttowork/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/idontwanttowork/</guid>
+      <description>I dont want to work</description>
+    </item>
+    
+    <item>
+      <title>自我探索</title>
+      <link>https://Aria1214.github.io/posts/selfexploration/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/selfexploration/</guid>
+      <description>self-exploration</description>
+    </item>
+    
+    <item>
+      <title>2020-05-09的一天</title>
+      <link>https://Aria1214.github.io/posts/20200509/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/20200509/</guid>
+      <description>20200509</description>
+    </item>
+    
+    <item>
+      <title>實領低於最低工資的工作</title>
+      <link>https://Aria1214.github.io/posts/doingalowpaidjob/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/doingalowpaidjob/</guid>
+      <description>doing a low-paid job</description>
+    </item>
+    
+    <item>
+      <title>現實壓力會使人在找工作時妥協</title>
+      <link>https://Aria1214.github.io/posts/interviewing/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/interviewing/</guid>
+      <description>interviewing</description>
+    </item>
+    
+    <item>
+      <title>第一次參加的喪禮是阿公的</title>
+      <link>https://Aria1214.github.io/posts/aboutdead/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/aboutdead/</guid>
+      <description>about dead</description>
+    </item>
+    
+    <item>
+      <title>上大學的第一份打工</title>
+      <link>https://Aria1214.github.io/posts/firstparttimejob/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://Aria1214.github.io/posts/firstparttimejob/</guid>
+      <description>first parttime job</description>
+    </item>
+    
+  </channel>
+</rss>
